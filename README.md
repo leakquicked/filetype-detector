@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/filetype-detector/actions/workflows/python-checks.yml/badge.svg)
+
 # Filetype Detector
 
 Identify common file formats from leading signature bytes.
